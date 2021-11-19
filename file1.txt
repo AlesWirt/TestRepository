@@ -1,5 +1,9 @@
 Hello, World!
 12345
 Good bye
+<<<<<<< HEAD
 First line from user1
+=======
+LINE FROM USER2
+>>>>>>> 0bf8d277298f93dacdc4f7eee999d012061f2d5d
 Line from user1
